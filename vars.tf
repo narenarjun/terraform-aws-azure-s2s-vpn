@@ -1,4 +1,4 @@
-variable "location" {
+variable "azure-location" {
   type = string
   default = "westus"
 }
